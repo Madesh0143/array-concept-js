@@ -14,7 +14,7 @@
 11.concat <br>
 12.splice <br>
 13.indexOf <br>
-14.lastindexOF <br>
+14.lastindexOf <br>
 15.flat <br>
 16.shift <br>
 17.unshift <br>
